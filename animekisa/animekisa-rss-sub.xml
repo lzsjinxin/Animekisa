@@ -6,7 +6,13 @@
 <description>A simple RSS feed for Animekisa!</description>
 
 <item>
-    <title>Re-Main- Episode 11</title>
+    <title>Jahy-sama wa Kujikenai! - Episode 8</title>
+    <link>https://animekisa.tv//jahy-sama-wa-kujikenai-episode-8</link>
+    <description>Episode 8 of Jahy-sama wa Kujikenai! is out!</description>
+</item>
+
+<item>
+    <title>Re-Main - Episode 11</title>
     <link>https://animekisa.tv//re-main-episode-11</link>
     <description>Episode 11 of Re-Main is out!</description>
 </item>
@@ -117,12 +123,6 @@
     <title>Meikyuu Black Company - Episode 12</title>
     <link>https://animekisa.tv//meikyuu-black-company-episode-12</link>
     <description>Episode 12 of Meikyuu Black Company is out!</description>
-</item>
-
-<item>
-    <title>MILGЯAM - Episode 14</title>
-    <link>https://animekisa.tv//milgyaam-episode-14</link>
-    <description>Episode 14 of MILGЯAM is out!</description>
 </item>
 
 </channel>

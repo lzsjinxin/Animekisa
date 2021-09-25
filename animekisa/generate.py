@@ -67,5 +67,3 @@ for type_ in types:
         os.remove(filename)
     with open(filename, 'w') as f:
         f.write(generate_rss_by_type(types[type_]).strip())
-
-# Access token github : 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
