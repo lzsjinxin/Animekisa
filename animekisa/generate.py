@@ -62,7 +62,7 @@ types = {
 
 
 for type_ in types:
-    filename = f'/home/lzsjinxin/Documents/GitHub/lzsjinxin/Animekisa/animekisa/animekisa-rss-{type_}.xml'
+    filename = f'/home/lzs_jinxin/Animekisa/animekisa/animekisa-rss-{type_}.xml'
     if os.path.exists(filename):
         os.remove(filename)
     with open(filename, 'w') as f:
